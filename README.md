@@ -45,10 +45,14 @@ https://gg.teddysc.me/?g=5b955acd9fbe8c48130e9cd104b6ddab&a&c=2
 
 ## Software utilizing this sqlite db
 
-- My own Hokkien Sutian: https://gg.teddysc.me/sutian
+- My own Hokkien Sutian: https://gg.teddysc.me/sutian - try it: https://gg.teddysc.me/sutian/?q=一世人   
+  The db will be cached locally after first load, making it blazing fast for subsequent queries. Powered by sql.js (WASM).
 - I have some scripts to query the db locally
 
 ## Related Projects
+
+<!-- tddschn/mandarin-to-hokkien-translation-prompt-builder -->
+- [tddschn/mandarin-to-hokkien-translation-prompt-builder](https://github.com/tddschn/mandarin-to-hokkien-translation-prompt-builder) - A tool to help build prompts for translating Mandarin to Hokkien using the Sutian dictionary. The prompt helps LLMs learn on the fly.
 
 
 ## License and Attribution
