@@ -45,7 +45,7 @@ https://gg.teddysc.me/?g=5b955acd9fbe8c48130e9cd104b6ddab&a&c=2
 
 ## Software utilizing this sqlite db
 
-- My own Hokkien Sutian: https://gg.teddysc.me/sutian - try it: https://ggAteddysc.me/sutian/?q=一世人 | https://gg.teddysc.me/sutian/?q=州
+- My own Hokkien Sutian: https://gg.teddysc.me/sutian - try it: https://ggAteddysc.me/sutian/?q=一世人 | https://gg.teddysc.me/sutian/?q=州 | https://gg.teddysc.me/sutian/?mf=州
   The db will be cached locally after first load, making it blazing fast for subsequent queries. Powered by sql.js (WASM).
 - I have some scripts to query the db locally
 
