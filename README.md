@@ -49,6 +49,8 @@ https://gg.teddysc.me/?g=5b955acd9fbe8c48130e9cd104b6ddab&a&c=2
   The db will be cached locally after first load, making it blazing fast for subsequent queries. Powered by sql.js (WASM).
 - I have some scripts to query the db locally
 
+![](https://g.teddysc.me/f2f36da261557ac3dac4420227445d1b?b)
+
 ## Related Projects
 
 <!-- tddschn/mandarin-to-hokkien-translation-prompt-builder -->
